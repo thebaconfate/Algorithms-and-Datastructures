@@ -1,5 +1,5 @@
 import pytest
-import python.linked_list as ll
+import ad.linked_list as ll
 
 
 @pytest.fixture
