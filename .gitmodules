@@ -1,4 +1,0 @@
-[submodule "python"]
-	path = python
-	url = git@github.com:thebaconfate/AD-python.git
-	branch = main
