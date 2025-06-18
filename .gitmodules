@@ -1,3 +1,4 @@
 [submodule "python/algorithms-and-datastructures"]
 	path = python/algorithms-and-datastructures
 	url = git@github.com:thebaconfate/AD-python.git
+    branch = main
